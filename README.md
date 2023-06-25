@@ -1,4 +1,4 @@
-# MCT_test<h1 align = "center"> RECIPE MANAGEMENT APPLICATION </h1>
+<h1 align = "center"> RECIPE MANAGEMENT APPLICATION </h1>
 
 <p align="center">
 <a href="Java url">
